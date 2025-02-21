@@ -79,7 +79,7 @@ const config = {
         title: 'Magneto',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/magneto_logo.svg',
+          src: 'img/magneto.png',
         },
         items: [
           {

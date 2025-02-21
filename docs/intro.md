@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introducción a Magneto Empleos
 
-Let's discover **Docusaurus in less than 5 minutes**.
+!Bienvenid@s a **Magneto Empleos!** Encuentra oportunidades laborales y conecta con empresas en pocos pasos.
 
-## Getting Started
+## ¿Qué es Magneto Empleos?
 
 Get started by **creating a new site**.
 
