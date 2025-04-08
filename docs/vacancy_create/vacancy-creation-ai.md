@@ -2,11 +2,13 @@
 sidebar_position: 1
 ---
 
-# Creación de vacante con IA
+import VideoPlayer from '../../src/components/Video/videoPlayer';
+
+# Creación con IA
 
 Simplifica la creación de vacantes con inteligencia artificial para acelerar el proceso y mejorar la calidad de las descripciones.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hKhbnRAlJf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<VideoPlayer videoUrl="https://www.youtube.com/embed/hKhbnRAlJf8" />
 
 ## ¿Cómo funciona?
 
